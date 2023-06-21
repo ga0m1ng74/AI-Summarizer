@@ -7,7 +7,7 @@ const App = () => {
   return (
     <main>
         <div className='main'>
-            <div className='grdient'/>
+            <div className='gradient'/>
         </div>
         <div className='app'>
             <Hero />
